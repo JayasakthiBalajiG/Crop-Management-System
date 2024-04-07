@@ -1,0 +1,3 @@
+DiseaseDetection filter=lfs diff=lfs merge=lfs -text
+cropDetection filter=lfs diff=lfs merge=lfs -text
+cropRecommendation filter=lfs diff=lfs merge=lfs -text
